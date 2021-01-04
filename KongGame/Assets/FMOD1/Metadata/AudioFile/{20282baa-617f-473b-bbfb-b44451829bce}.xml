@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{20282baa-617f-473b-bbfb-b44451829bce}">
+		<property name="assetPath">
+			<value>Footstep sound effects (walking sound effect).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>98.063673469387751</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f1c84201-7a99-4793-98f6-d1458ea5f00b}</destination>
+		</relationship>
+	</object>
+</objects>

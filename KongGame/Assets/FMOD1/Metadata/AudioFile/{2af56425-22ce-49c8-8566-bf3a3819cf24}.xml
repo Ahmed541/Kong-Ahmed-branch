@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{2af56425-22ce-49c8-8566-bf3a3819cf24}">
+		<property name="assetPath">
+			<value>Female Grunts Breaths SOUND Effect.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>17.89387755102041</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f1c84201-7a99-4793-98f6-d1458ea5f00b}</destination>
+		</relationship>
+	</object>
+</objects>

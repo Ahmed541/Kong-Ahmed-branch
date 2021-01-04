@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{675e776f-ddc8-42dc-af01-8de209b5d8fa}">
+		<property name="assetPath">
+			<value>80's Synthwave by MOKKA [No Copyright Music] _ Synthetic Pleasures.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>128.06399999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f1c84201-7a99-4793-98f6-d1458ea5f00b}</destination>
+		</relationship>
+	</object>
+</objects>

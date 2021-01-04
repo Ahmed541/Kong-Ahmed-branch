@@ -1,0 +1,42 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":5.352962970733643,"y":-2.1385912895202638,"z":3.1412124633789064},"rotation":{"x":-0.1886148452758789,"y":-0.39178508520126345,"z":0.0824037715792656,"w":-0.8967472910881043},"size":4.787235260009766,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":30.016910552978517,"y":3.810504913330078,"z":-37.54800033569336},"rotation":{"x":-0.08074430376291275,"y":0.107399582862854,"z":-0.008822036907076836,"w":-0.9909458756446838},"size":1.9782140254974366,"orthographic":false}
+>>>>>>> CallumSlowley-branch
+=======
+=======
+>>>>>>> parent of 63af2b44... updated character animation
+=======
+>>>>>>> parent of 63af2b44... updated character animation
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":752.12353515625,"y":-12.92718505859375,"z":639.1402587890625},"rotation":{"x":-0.06260564178228378,"y":0.9043609499931336,"z":-0.39769744873046877,"w":-0.14222723245620728},"size":296.66522216796877,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-0.08343380689620972,"y":1.3411043882369996,"z":-0.26464158296585085},"rotation":{"x":0.013221513479948044,"y":-0.913016676902771,"z":-0.029892276972532274,"w":-0.4067240357398987},"size":1.5508464574813843,"orthographic":false}
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of fad53533... prefab deletion pushes
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":0.8422293663024902,"y":3.308943271636963,"z":-1.5343055725097657},"rotation":{"x":-0.20882394909858704,"y":0.22561059892177583,"z":-0.04958150535821915,"w":-0.9502918124198914},"size":1.4882957935333253,"orthographic":false}
+>>>>>>> Stashed changes
+>>>>>>> Sams-Dev-Branch
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 63af2b44... updated character animation
+=======
+>>>>>>> parent of 63af2b44... updated character animation
+=======
+>>>>>>> parent of 63af2b44... updated character animation
+=======
+>>>>>>> parent of fad53533... prefab deletion pushes
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-1.450657844543457,"y":0.34909772872924807,"z":2.1657791137695314},"rotation":{"x":0.21069474518299104,"y":0.13905201852321626,"z":-0.030291959643363954,"w":0.9671502709388733},"size":10.0,"orthographic":false}
+>>>>>>> seb's-dev-branch
